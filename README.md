@@ -10,7 +10,7 @@ iOS App 開發練習 − SwiftUI Tutorial 練習
 
 測試環境：
 
-參考資料：Apple Developer Documentation－SwiftUI Tutorial
+學習資料：Apple Developer Documentation－SwiftUI Tutorial
 
 # App 練習進度：
 
