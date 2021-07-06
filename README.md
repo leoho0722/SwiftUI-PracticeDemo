@@ -16,8 +16,8 @@ iOS App 開發練習 − SwiftUI Tutorial 練習
 
 SwiftUI Essentials：Creating and Combining Views、Building Lists and Navgation、Handling User Input
 
-Drawing and Animation：Drawing Paths and Shapes
+Drawing and Animation：Drawing Paths and Shapes、Animating Views and Transitions
 
-App Design and Layout：
+App Design and Layout：Composing Complex Interfaces、Working with UI Controls
 
 Framework and Integration：
