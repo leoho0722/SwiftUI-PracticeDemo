@@ -11,3 +11,13 @@ iOS App 開發練習 − SwiftUI Tutorial 練習
 測試環境：
 
 參考資料：Apple Developer Documentation－SwiftUI Tutorial
+
+# App 練習進度：
+
+SwiftUI Essentials：Creating and Combining Views、Building Lists and Navgation、Handling User Input
+
+Drawing and Animation：Drawing Paths and Shapes
+
+App Design and Layout：
+
+Framework and Integration：
